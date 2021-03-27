@@ -1,2 +1,6 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+TheNatureOfComputation = "df904ba0-6002-4dbb-aa94-30024fde2aaf"
+
+[compat]
+Documenter = "0.24"
