@@ -1,0 +1,4 @@
+name = "TheNatureOfComputation"
+uuid = "df904ba0-6002-4dbb-aa94-30024fde2aaf"
+authors = ["McCoy Becker <mccoybecker@gmail.com>"]
+version = "0.1.0"
